@@ -1,0 +1,34 @@
+*{
+      margin:0;
+      padding:0;
+   }
+   .bg{
+    background:linear-gradient(to right,red,blue);
+    height:100%;
+
+}
+   .button{
+     width:50;
+     height:50;
+     font-size:25;
+     margin:2;
+     background:red;
+     border:none;
+     color:white;
+     
+   }
+   .textview{
+       width:217;
+       margin:5;
+       font-size:25;
+       padding:5;
+   }
+   .main
+   {
+       position:absolute;
+       top:30%;
+       left:40%;
+       transform:translateX(-50%)translateY(-50%;
+
+   }
+    
